@@ -2,7 +2,7 @@
 echarts图表自定义样式
 
 1. 环形图
-  <img width="764" alt="pie" src="https://user-images.githubusercontent.com/35803403/155936944-6d9b15cd-2f2b-4ff5-874c-c3122f8c64a8.png">
+![bar](https://user-images.githubusercontent.com/35803403/155936944-6d9b15cd-2f2b-4ff5-874c-c3122f8c64a8.png)
   
 2. 柱状图：渐变色、标记线、标记点
 ![bar](https://user-images.githubusercontent.com/35803403/155937053-1883b59d-ce53-4ef2-9a51-2f6152acb961.png)
